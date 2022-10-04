@@ -1,1 +1,10 @@
+# OS generated files #
+######################
 .idea
+.vscode
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
